@@ -1,0 +1,2222 @@
+[
+  {
+    "id": "4950D2D8-72A6-503D-92F6-ADF79CBDDB78",
+    "category": "file",
+    "titleRU": "Создать документ",
+    "titleEN": "New",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "N"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "N"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "B82D20BB-3118-51A9-9D87-6188783E9E13",
+    "category": "file",
+    "titleRU": "Открыть",
+    "titleEN": "Open",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "O"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "O"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "E6954C90-A5CA-5AEC-B825-DF808FEFBA28",
+    "category": "file",
+    "titleRU": "Сохранить",
+    "titleEN": "Save",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "S"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "S"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "78B11D50-72AD-5781-BE13-31E33E25EA43",
+    "category": "file",
+    "titleRU": "Сохранить как",
+    "titleEN": "Save As",
+    "windowsShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "S"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "S"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "54E45AF2-59AB-5249-94F6-047638DC7605",
+    "category": "file",
+    "titleRU": "Импорт",
+    "titleEN": "Import",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "I"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "I"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "E3C017AC-0338-5108-81B5-CEF43FD44814",
+    "category": "file",
+    "titleRU": "Экспорт",
+    "titleEN": "Export",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "E"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "E"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "09BD64C8-F303-5AE1-8571-AFDB6B8A4A27",
+    "category": "file",
+    "titleRU": "Печать",
+    "titleEN": "Print",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "P"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "P"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "C872C3F1-5E2D-53AA-A2B3-1D896B5EE02F",
+    "category": "file",
+    "titleRU": "Выход",
+    "titleEN": "Exit",
+    "windowsShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "function",
+        "value": 4
+      }
+    },
+    "macShortcut": null,
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "B583C643-197A-539C-BDAD-F4E0F7E209B5",
+    "category": "edit",
+    "titleRU": "Отменить",
+    "titleEN": "Undo",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Z"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Z"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "7B0D2007-5055-5B92-869B-5F81C8A6ECAD",
+    "category": "edit",
+    "titleRU": "Повторить отменённое",
+    "titleEN": "Redo",
+    "windowsShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Z"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Z"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "C40B35DC-86D1-56F4-B5C3-CC283E5FA135",
+    "category": "edit",
+    "titleRU": "Повторить команду",
+    "titleEN": "Repeat",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "R"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "R"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "B6AF597E-1294-5266-A3F8-622DF8587E4A",
+    "category": "edit",
+    "titleRU": "Вырезать",
+    "titleEN": "Cut",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "X"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "X"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "85F47744-680F-51DB-9FB0-28D083339525",
+    "category": "edit",
+    "titleRU": "Копировать",
+    "titleEN": "Copy",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "C"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "C"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "480F0A41-ED25-52A5-87B9-BE0529635BC9",
+    "category": "edit",
+    "titleRU": "Вставить",
+    "titleEN": "Paste",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "V"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "V"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "B0C610C1-3642-58DB-B00D-97CE92156A7B",
+    "category": "edit",
+    "titleRU": "Удалить",
+    "titleEN": "Delete",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "delete"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "delete"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "BF149F2B-968B-523D-9399-4B364734E161",
+    "category": "edit",
+    "titleRU": "Дублировать",
+    "titleEN": "Duplicate",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "D"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "D"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "EC456D0D-42B6-502E-8FBC-65E4CD0237EE",
+    "category": "edit",
+    "titleRU": "Шаг и повтор",
+    "titleEN": "Step and Repeat",
+    "windowsShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "D"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "D"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "862E74AF-A644-523D-ABBF-DB611DA76E0B",
+    "category": "edit",
+    "titleRU": "Найти объекты",
+    "titleEN": "Find Objects",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "F"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "F"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "71AC133A-B277-563C-B3C1-EF216F71607D",
+    "category": "view",
+    "titleRU": "Полноэкранный просмотр",
+    "titleEN": "Full Screen Preview",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "function",
+        "value": 9
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control",
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "P"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "25F243C5-3B1D-5463-8BFD-EB7053C830C6",
+    "category": "view",
+    "titleRU": "Представления",
+    "titleEN": "Views",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 2
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "V"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "63F9A4BA-D900-5888-A00F-B6DB30387061",
+    "category": "view",
+    "titleRU": "Направляющие выравнивания",
+    "titleEN": "Alignment Guides",
+    "windowsShortcut": {
+      "modifiers": [
+        "option",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "A"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "A"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "6A1395B0-ED37-5497-A40B-8940F920532A",
+    "category": "view",
+    "titleRU": "Динамические направляющие",
+    "titleEN": "Dynamic Guides",
+    "windowsShortcut": {
+      "modifiers": [
+        "option",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "D"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "D"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "414CF386-823E-5CCF-B50F-DAA73084AB8A",
+    "category": "view",
+    "titleRU": "Привязка к сетке документа",
+    "titleEN": "Snap to Document Grid",
+    "windowsShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Y"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Y"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "8F814FE3-91A5-5756-B1A0-438113EB047F",
+    "category": "view",
+    "titleRU": "Привязка к объектам",
+    "titleEN": "Snap to Objects",
+    "windowsShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Z"
+      }
+    },
+    "macShortcut": null,
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "415CB80B-23DA-57A9-8C53-F7DFF3225CEB",
+    "category": "view",
+    "titleRU": "Отключить привязки",
+    "titleEN": "Snap Off",
+    "windowsShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Q"
+      }
+    },
+    "macShortcut": null,
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "6E2D4CDE-C6F1-507C-8829-D171D23AAACF",
+    "category": "view",
+    "titleRU": "Увеличить масштаб",
+    "titleEN": "Zoom In",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "+"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "character",
+        "value": "+"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "647E2FA7-F967-5B02-9E99-5ADA455BC3D1",
+    "category": "view",
+    "titleRU": "Уменьшить масштаб",
+    "titleEN": "Zoom Out",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "-"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "character",
+        "value": "-"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "C63E18AB-8D10-5D2B-BC63-9884422A26D5",
+    "category": "arrange",
+    "titleRU": "Выровнять по левому краю",
+    "titleEN": "Align Left",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "L"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "L"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "96388971-CAE1-576F-9A71-481F96AD110F",
+    "category": "arrange",
+    "titleRU": "Выровнять по правому краю",
+    "titleEN": "Align Right",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "R"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "R"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "7F3F5362-15E1-52FD-AAB2-CC56188EC625",
+    "category": "arrange",
+    "titleRU": "Выровнять по верхнему краю",
+    "titleEN": "Align Top",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "T"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "T"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "84AF4AA4-0993-5AFD-86B8-F636E3D47675",
+    "category": "arrange",
+    "titleRU": "Выровнять по нижнему краю",
+    "titleEN": "Align Bottom",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "B"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "B"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "A4C56BA7-C6F0-5030-9911-437DC2D2A337",
+    "category": "arrange",
+    "titleRU": "Центры по горизонтали",
+    "titleEN": "Align Centers Horizontally",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "C"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "C"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "8523CCD5-96DA-56FA-BEBE-F2B82AF8355D",
+    "category": "arrange",
+    "titleRU": "Центры по вертикали",
+    "titleEN": "Align Centers Vertically",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "E"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "E"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "4BB1D315-1447-558C-8527-C0F76B7DCE99",
+    "category": "arrange",
+    "titleRU": "По центру страницы",
+    "titleEN": "Center to Page",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "P"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "P"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "83FC7C84-C008-53B2-B7B1-3D9C3D153F38",
+    "category": "arrange",
+    "titleRU": "Выравнивание и распределение",
+    "titleEN": "Align and Distribute",
+    "windowsShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "A"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "A"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "FC34EEE7-65D8-558A-B14A-C83B810B5FF3",
+    "category": "object",
+    "titleRU": "На передний план страницы",
+    "titleEN": "To Front of Page",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "home"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control",
+        "option",
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "]"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "B70AF2D3-6C64-560A-81D2-B27D608974D6",
+    "category": "object",
+    "titleRU": "На задний план страницы",
+    "titleEN": "To Back of Page",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "end"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control",
+        "option",
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "["
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "EC53FBB1-4EDA-5501-8793-3885B49EDB9E",
+    "category": "object",
+    "titleRU": "На передний план слоя",
+    "titleEN": "To Front of Layer",
+    "windowsShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "pageUp"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "option",
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "]"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "5B2094FE-CFB9-5253-95B6-E197B382F813",
+    "category": "object",
+    "titleRU": "На задний план слоя",
+    "titleEN": "To Back of Layer",
+    "windowsShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "pageDown"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "option",
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "["
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "3B709B53-73B0-5FF8-BD5F-6D905F65CFC9",
+    "category": "object",
+    "titleRU": "На один уровень вперёд",
+    "titleEN": "Forward One",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "pageUp"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "]"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "ECEF6EDD-9E11-5D30-9981-701EA8AC91C9",
+    "category": "object",
+    "titleRU": "На один уровень назад",
+    "titleEN": "Back One",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "pageDown"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "["
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "2111DE8E-8AB0-5091-B012-7FE8D10FCEF2",
+    "category": "object",
+    "titleRU": "Объединить кривые",
+    "titleEN": "Combine",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "L"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "L"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "804AA8B1-CDD4-5948-A423-0BBE156779CA",
+    "category": "object",
+    "titleRU": "Разъединить кривые",
+    "titleEN": "Break Apart",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "K"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "K"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "F4FF5D62-72D8-56CB-BE62-1300064118E0",
+    "category": "object",
+    "titleRU": "Группировать объекты",
+    "titleEN": "Group Objects",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "G"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "G"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "CD7AE8C7-A941-5CEC-8F9F-D8DF6E1C0C4D",
+    "category": "object",
+    "titleRU": "Разгруппировать объекты",
+    "titleEN": "Ungroup Objects",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "U"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "U"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "B43EEF8D-7FB2-5E41-B83F-64A5681BF8A8",
+    "category": "object",
+    "titleRU": "Преобразовать в кривые",
+    "titleEN": "Convert to Curves",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Q"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Q"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "269C778C-AE1F-5FD5-81FD-35CC0111660F",
+    "category": "object",
+    "titleRU": "Преобразовать абрис в объект",
+    "titleEN": "Convert Outline to Object",
+    "windowsShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Q"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "Q"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "E10AD419-F2C8-5B60-81D0-8C79F15EA20E",
+    "category": "object",
+    "titleRU": "Свойства объекта",
+    "titleEN": "Object Properties",
+    "windowsShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "enter"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "enter"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "5D65D5C1-D813-5239-B9EA-BEB0BDBBBF71",
+    "category": "object",
+    "titleRU": "Менеджер символов",
+    "titleEN": "Symbol Manager",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 3
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "S"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "8C1C402D-6FDC-50F5-9724-6922D2642AC1",
+    "category": "effects",
+    "titleRU": "Яркость, контрастность, интенсивность",
+    "titleEN": "Brightness/Contrast/Intensity",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "B"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "character",
+        "value": "B"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "F40F25F6-7DE2-5A6F-8AA4-566C1804C4F2",
+    "category": "effects",
+    "titleRU": "Цветовой баланс",
+    "titleEN": "Color Balance",
+    "windowsShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "B"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "B"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "C491D1C2-CF00-5F91-AB16-979B512C7E08",
+    "category": "effects",
+    "titleRU": "Оттенок, насыщенность, светлота",
+    "titleEN": "Hue/Saturation/Lightness",
+    "windowsShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "U"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "U"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "53767781-6185-5A60-BB10-1C1E8EE5ECEB",
+    "category": "effects",
+    "titleRU": "Контур",
+    "titleEN": "Contour",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 9
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "C"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "B7E3E3BF-8C28-581A-83D6-34B8C20114D0",
+    "category": "effects",
+    "titleRU": "Оболочка",
+    "titleEN": "Envelope",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 7
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "E"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "602D3957-8C56-5BEA-A909-20018BAEFE72",
+    "category": "effects",
+    "titleRU": "Линза",
+    "titleEN": "Lens",
+    "windowsShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "function",
+        "value": 3
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "L"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "5BBA7B84-79CC-5246-8C60-93E0320EEEDF",
+    "category": "text",
+    "titleRU": "Свойства текста",
+    "titleEN": "Text Properties",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "T"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "T"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "A8DD4A75-7DB2-58B5-8DEA-0F04DF908CCD",
+    "category": "text",
+    "titleRU": "Редактировать текст",
+    "titleEN": "Edit Text",
+    "windowsShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "T"
+      }
+    },
+    "macShortcut": null,
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "8AEACD7D-549D-556F-86D5-96694EF622BE",
+    "category": "text",
+    "titleRU": "Вставить код форматирования",
+    "titleEN": "Insert Formatting Code",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 8
+      }
+    },
+    "macShortcut": null,
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "2CAB72AB-640D-54F5-98C2-2607B8B43BE2",
+    "category": "text",
+    "titleRU": "Неразрывный дефис",
+    "titleEN": "Non-breaking Hyphen",
+    "windowsShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "-"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "-"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "0E8F6981-891F-5ADD-BC9A-C769BF354F46",
+    "category": "text",
+    "titleRU": "Преобразовать текст",
+    "titleEN": "Convert Text",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 8
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "option",
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "T"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "502BCED0-D152-5EB0-B5F7-60E4FE4506C4",
+    "category": "text",
+    "titleRU": "Выровнять по базовой линии",
+    "titleEN": "Align to Baseline",
+    "windowsShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "function",
+        "value": 12
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "option",
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "B"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "5997C3E7-E04C-573D-9003-7AB1E71CCFBD",
+    "category": "text",
+    "titleRU": "Проверка орфографии",
+    "titleEN": "Spell Check",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 12
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "option",
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "S"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "6335F803-A730-5DA6-AAF8-24A2F9CDE23B",
+    "category": "text",
+    "titleRU": "Вставить символ",
+    "titleEN": "Insert Character",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 11
+      }
+    },
+    "macShortcut": null,
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "74653F8F-8AE2-50EE-9AF5-CFADB457EE5A",
+    "category": "text",
+    "titleRU": "Глифы",
+    "titleEN": "Glyphs",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 11
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "G"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "E14314FC-0F9B-5AF8-B923-88CA07DCFA6D",
+    "category": "window",
+    "titleRU": "Обновить окно",
+    "titleEN": "Refresh Window",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "W"
+      }
+    },
+    "macShortcut": null,
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "0C8A52B4-091A-5B09-9251-0E53BF837070",
+    "category": "window",
+    "titleRU": "Закрыть окно",
+    "titleEN": "Close Window",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 4
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "W"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "1675297D-AE34-5378-807A-44669E2D296D",
+    "category": "window",
+    "titleRU": "Свойства",
+    "titleEN": "Properties Inspector",
+    "windowsShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "enter"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "enter"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "0DBD3F93-F306-5B85-8F1B-F3F58AFAF872",
+    "category": "window",
+    "titleRU": "Стили объектов",
+    "titleEN": "Object Styles Inspector",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 5
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "S"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "59D8111A-C70E-5B6F-9FED-611104F90D62",
+    "category": "window",
+    "titleRU": "Символы",
+    "titleEN": "Symbols Inspector",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 3
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "S"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "62E8ABD5-7C0D-5150-B1BC-77AF6066ADBB",
+    "category": "window",
+    "titleRU": "Шаг и повтор",
+    "titleEN": "Step and Repeat Inspector",
+    "windowsShortcut": {
+      "modifiers": [
+        "control",
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "D"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "D"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "3F77BA3C-D1B9-50B7-A5B1-183CCA4BA87A",
+    "category": "window",
+    "titleRU": "Стили цвета",
+    "titleEN": "Color Styles Inspector",
+    "windowsShortcut": null,
+    "macShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "C"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "E21C8E44-4991-59BE-AEFB-47A2097CB3A8",
+    "category": "window",
+    "titleRU": "Сценарии",
+    "titleEN": "Scripts",
+    "windowsShortcut": {
+      "modifiers": [
+        "option",
+        "shift"
+      ],
+      "key": {
+        "type": "function",
+        "value": 11
+      }
+    },
+    "macShortcut": null,
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "AD6854EC-07CF-5157-BE09-8C3165AEECA1",
+    "category": "window",
+    "titleRU": "Менеджер видов",
+    "titleEN": "View Manager",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "function",
+        "value": 2
+      }
+    },
+    "macShortcut": null,
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "C6762FA6-F77D-5B9C-96D1-C8872FAAC2E2",
+    "category": "tools",
+    "titleRU": "Параметры",
+    "titleEN": "Options",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "character",
+        "value": "J"
+      }
+    },
+    "macShortcut": null,
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "E0BC20F2-D4A4-54B6-853E-4F863A6B1FDD",
+    "category": "tools",
+    "titleRU": "Выбор",
+    "titleEN": "Pick Tool",
+    "windowsShortcut": null,
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "V"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "845C9B2C-6ED2-562E-8A45-5DD93C974629",
+    "category": "tools",
+    "titleRU": "Форма",
+    "titleEN": "Shape Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "function",
+        "value": 10
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "A"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "FC37F227-A890-5CD5-AE13-B5E8DDBFD3B9",
+    "category": "tools",
+    "titleRU": "Свободная форма",
+    "titleEN": "Freehand Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "function",
+        "value": 5
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "N"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "2C77AA47-AADE-5E86-9C6A-4E09BA370661",
+    "category": "tools",
+    "titleRU": "Перо",
+    "titleEN": "Pen Tool",
+    "windowsShortcut": null,
+    "macShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "N"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "5ADA31A2-7AFD-5489-BC85-0476A010B17C",
+    "category": "tools",
+    "titleRU": "Художественное оформление",
+    "titleEN": "Artistic Media Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "I"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "I"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "A8BEC531-6255-5F60-9FC3-07637E6D4C95",
+    "category": "tools",
+    "titleRU": "LiveSketch",
+    "titleEN": "LiveSketch Tool",
+    "windowsShortcut": null,
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "S"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "49E485BD-A536-50B3-A2D8-3A261B15ED89",
+    "category": "tools",
+    "titleRU": "Интеллектуальное рисование",
+    "titleEN": "Smart Drawing Tool",
+    "windowsShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "S"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "character",
+        "value": "S"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "D2746AB4-EE36-55CA-8E75-B587D0CD8B2C",
+    "category": "tools",
+    "titleRU": "Текст",
+    "titleEN": "Text Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "function",
+        "value": 8
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "T"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "05A7E542-3E17-5E60-8DFE-07F8F8A0D144",
+    "category": "tools",
+    "titleRU": "Прямоугольник",
+    "titleEN": "Rectangle Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "function",
+        "value": 6
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "R"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "B23DC248-A1A0-56BA-80B6-25C378DD671D",
+    "category": "tools",
+    "titleRU": "Эллипс",
+    "titleEN": "Ellipse Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "function",
+        "value": 7
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "E"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "5CD46950-B129-5937-AFEC-1C91F12280B4",
+    "category": "tools",
+    "titleRU": "Многоугольник",
+    "titleEN": "Polygon Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "Y"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "Y"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "8720C51A-0F87-561B-8DE9-B0CDE6671A6C",
+    "category": "tools",
+    "titleRU": "Спираль",
+    "titleEN": "Spiral Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "A"
+      }
+    },
+    "macShortcut": null,
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "F7066B02-A6B7-5032-83EE-0CD78E9DB139",
+    "category": "tools",
+    "titleRU": "Разлинованная бумага",
+    "titleEN": "Graph Paper Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "D"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "D"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "BF25CEB2-AC8F-56BA-A1B3-37D866BFE48B",
+    "category": "tools",
+    "titleRU": "Ластик",
+    "titleEN": "Eraser Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "X"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "X"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "E425BE42-E018-528D-A007-59060A0DA039",
+    "category": "tools",
+    "titleRU": "Интерактивная заливка",
+    "titleEN": "Interactive Fill Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "G"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "G"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "AFB35DA4-E4B2-58D5-B997-BEFF539024D3",
+    "category": "tools",
+    "titleRU": "Сетчатая заливка",
+    "titleEN": "Mesh Fill Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "M"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "M"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "9A423DA0-622B-5DB3-9BB1-47DF2D7BBA2D",
+    "category": "tools",
+    "titleRU": "Масштаб",
+    "titleEN": "Zoom Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "Z"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "Z"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "C9FC4BCB-417F-5A04-A4F0-238E4284E91A",
+    "category": "tools",
+    "titleRU": "Панорамирование",
+    "titleEN": "Pan Tool",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "H"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "character",
+        "value": "H"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "638E4A1D-C86C-501E-A14A-E49E91B0F14E",
+    "category": "window",
+    "titleRU": "Сдвиг объекта",
+    "titleEN": "Nudge",
+    "windowsShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "arrowUp"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [],
+      "key": {
+        "type": "arrowUp"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "ACB2D311-0819-56B4-BD6E-B973B59B1CDD",
+    "category": "window",
+    "titleRU": "Усиленный сдвиг",
+    "titleEN": "Super Nudge",
+    "windowsShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "arrowUp"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "shift"
+      ],
+      "key": {
+        "type": "arrowUp"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "E07C240B-4905-53BA-B65C-9D079523CA3E",
+    "category": "window",
+    "titleRU": "Микросдвиг",
+    "titleEN": "Micro Nudge",
+    "windowsShortcut": {
+      "modifiers": [
+        "control"
+      ],
+      "key": {
+        "type": "arrowUp"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "command"
+      ],
+      "key": {
+        "type": "arrowUp"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  },
+  {
+    "id": "44DA401D-D283-5D35-A04A-DDC9878A07CE",
+    "category": "window",
+    "titleRU": "Прокрутка",
+    "titleEN": "Scroll",
+    "windowsShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "arrowUp"
+      }
+    },
+    "macShortcut": {
+      "modifiers": [
+        "option"
+      ],
+      "key": {
+        "type": "arrowUp"
+      }
+    },
+    "notes": "CorelDRAW Quick Reference Card 2020; verify customized assignments in CorelDRAW 2026."
+  }
+]

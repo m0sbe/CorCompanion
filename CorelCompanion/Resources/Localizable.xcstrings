@@ -1,0 +1,21 @@
+{
+  "sourceLanguage" : "ru",
+  "strings" : {
+    "CorCompanion появится в строке меню, когда активен CorelDRAW." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "CorCompanion appears in the menu bar while CorelDRAW is active." } }
+      }
+    },
+    "Завершить CorCompanion" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Quit CorCompanion" } }
+      }
+    },
+    "Перемещение холста средней кнопкой" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Middle-button canvas pan" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}
