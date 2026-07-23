@@ -8,6 +8,8 @@ I made this application for myself because, after moving from CorelDRAW for Wind
 
 CorCompanion is free, works entirely locally and does not collect user data. It requires no account, subscription or internet connection.
 
+![CorCompanion showing CorelDRAW shortcuts and middle-button panning controls](Documentation/Images/corcompanion-main-window.jpg)
+
 > [!IMPORTANT]
 > CorCompanion is an independent, unofficial project. It is not affiliated with, endorsed by or associated with Corel, Alludo or the developers of CorelDRAW.
 
@@ -20,6 +22,12 @@ CorCompanion is free, works entirely locally and does not collect user data. It 
 - Automatically enable CorelDRAW-specific behavior only while CorelDRAW is the active application.
 - Switch the interface between English and Russian.
 - Work completely offline, without analytics, accounts or network requests.
+
+## System resource usage
+
+CorCompanion is designed to remain lightweight while running in the background. In an idle-state measurement, it used approximately 0% CPU and 104 MB of memory. Actual memory usage may vary depending on the Mac and macOS version.
+
+Middle-mouse-button monitoring is active only while CorelDRAW is the frontmost application, helping keep unnecessary background activity to a minimum.
 
 ## Requirements
 
