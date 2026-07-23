@@ -139,6 +139,8 @@ scripts/build-github-release.sh
 
 Architecture and packaging details are available in [`Documentation/ARCHITECTURE.md`](Documentation/ARCHITECTURE.md) and [`Documentation/RELEASE.md`](Documentation/RELEASE.md).
 
+> **P.S.** This application was developed entirely with ChatGPT, and all of this text was written by it too. I merely sat there blinking, because designers have paws.
+
 ## Trademark notice
 
 Corel, CorelDRAW and related names and logos are trademarks of their respective owners. Their use here is solely to describe compatibility and the application’s intended purpose. CorCompanion is not affiliated with, endorsed by or sponsored by Corel or Alludo.
