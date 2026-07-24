@@ -40,16 +40,14 @@ final class PanController: ObservableObject {
     func requestPermissions() {
         _ = permissionManager.requestIfNeeded()
         if !permissionManager.isTrusted {
-            permissionManager.openSystemSettings(
-                preferInputMonitoring: permissionManager.hasAccessibilityAccess
-            )
+            permissionManager.openSystemSettings()
         }
         reconcile()
     }
 
     var needsPermissions: Bool {
         switch status {
-        case .missingBothPermissions, .missingAccessibility, .missingInputMonitoring: true
+        case .missingAccessibility: true
         default: false
         }
     }
@@ -115,20 +113,13 @@ final class PanController: ObservableObject {
     }
 
     private var permissionStatus: PanStatus {
-        switch (permissionManager.hasAccessibilityAccess, permissionManager.hasInputMonitoringAccess) {
-        case (false, false): .missingBothPermissions
-        case (false, true): .missingAccessibility
-        case (true, false): .missingInputMonitoring
-        case (true, true): .inactive
-        }
+        permissionManager.hasAccessibilityAccess ? .inactive : .missingAccessibility
     }
 }
 
 enum PanStatus {
     case inactive
-    case missingBothPermissions
     case missingAccessibility
-    case missingInputMonitoring
     case waitingForCorel
     case active
     case eventTapFailed

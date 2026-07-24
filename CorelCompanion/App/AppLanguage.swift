@@ -86,12 +86,8 @@ enum AppStrings {
         switch (status, language) {
         case (.inactive, .ru): "Работает только при активном CorelDRAW."
         case (.inactive, .en): "Works only while CorelDRAW is active."
-        case (.missingBothPermissions, .ru): "Требуются «Универсальный доступ» и «Мониторинг ввода»."
-        case (.missingBothPermissions, .en): "Accessibility and Input Monitoring permissions are required."
         case (.missingAccessibility, .ru): "Требуется разрешение «Универсальный доступ»."
         case (.missingAccessibility, .en): "Accessibility permission is required."
-        case (.missingInputMonitoring, .ru): "Требуется разрешение «Мониторинг ввода»."
-        case (.missingInputMonitoring, .en): "Input Monitoring permission is required."
         case (.waitingForCorel, .ru): "Ожидание активного CorelDRAW."
         case (.waitingForCorel, .en): "Waiting for CorelDRAW to become active."
         case (.active, .ru): "Прототип активен. Удерживайте среднюю кнопку над холстом."

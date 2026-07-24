@@ -6,7 +6,7 @@
 4. Publish the tag from the exact source revision used for the build.
 5. Test the download and first-launch flow on a clean macOS account.
 
-The app is ad-hoc signed. This protects its internal code-signing structure but does not identify the developer to Gatekeeper and cannot be notarized. An update can require Accessibility and Input Monitoring again because its code hash changes. Users may need to approve the app in System Settings → Privacy & Security. Never instruct users to disable Gatekeeper globally.
+The app is ad-hoc signed. This protects its internal code-signing structure but does not identify the developer to Gatekeeper and cannot be notarized. An update can require Accessibility again because its code hash changes. Users may need to approve the app in System Settings → Privacy & Security. Never instruct users to disable Gatekeeper globally.
 
 # Optional Developer ID release
 

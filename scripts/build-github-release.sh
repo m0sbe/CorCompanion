@@ -11,6 +11,11 @@ CHECKSUM="$DMG.sha256"
 cd "$ROOT/dist"
 shasum -a 256 "${DMG:t}" > "${CHECKSUM:t}"
 
+# Do not leave a second runnable copy next to the release artifacts. macOS can
+# register it as another Accessibility target with the same bundle identifier,
+# which makes the permission list ambiguous for local development.
+rm -rf "$ROOT/dist/CorCompanion.app"
+
 print "GitHub release artifacts:"
 print "  $DMG"
 print "  $CHECKSUM"

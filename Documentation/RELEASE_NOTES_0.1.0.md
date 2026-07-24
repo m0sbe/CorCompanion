@@ -17,7 +17,7 @@ Download `CorCompanion.dmg`, open it and drag CorCompanion to Applications.
 
 This free build is not notarized by Apple. If macOS blocks the first launch, try opening the application once, then open **System Settings → Privacy & Security** and choose **Open Anyway** for CorCompanion.
 
-Middle-button panning requires Accessibility and Input Monitoring permissions. Enable the installed `/Applications/CorCompanion.app` in both privacy lists when prompted.
+Middle-button panning requires Accessibility permission. Enable the installed `/Applications/CorCompanion.app` in **System Settings → Privacy & Security → Accessibility** when prompted.
 
 ## Current limitations
 

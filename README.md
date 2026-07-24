@@ -58,7 +58,7 @@ Do not disable Gatekeeper globally.
 
 Enable **Middle-button pan** in CorCompanion to navigate a CorelDRAW document with the clickable scroll wheel, using the familiar behavior from CorelDRAW for Windows.
 
-The feature requires **Accessibility** and **Input Monitoring** permissions because CorCompanion needs to observe the middle mouse button and reproduce the pan gesture. Use the permission button inside the application, then enable `/Applications/CorCompanion.app` in both privacy lists.
+The feature requires **Accessibility** permission because CorCompanion needs to observe the middle mouse button and reproduce the pan gesture. Use the permission button inside the application, then enable `/Applications/CorCompanion.app` in **System Settings → Privacy & Security → Accessibility**.
 
 Mouse events are processed locally and only while CorelDRAW is the frontmost application. The event monitor stops when another application becomes active.
 
